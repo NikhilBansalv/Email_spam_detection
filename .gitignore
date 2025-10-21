@@ -18,9 +18,6 @@ venv/
 .secrets.toml   # very important - secrets stay local
 .streamlit/
 
-# --- Model & vectorizer files ---
-*.pkl
-*.joblib
 
 # --- Data files ---
 emails.csv
