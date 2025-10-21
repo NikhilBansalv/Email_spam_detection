@@ -1,0 +1,43 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# --- Virtual environments ---
+venv/
+.env/
+.env*/ 
+*.env
+.envrc
+
+# --- Streamlit ---
+.secrets.toml   # very important - secrets stay local
+.streamlit/
+
+# --- Model & vectorizer files ---
+*.pkl
+*.joblib
+
+# --- Data files ---
+emails.csv
+*.csv
+
+# --- Jupyter notebooks checkpoints ---
+.ipynb_checkpoints/
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- IDEs ---
+.vscode/
+.idea/
+
+# --- Temporary files ---
+*.tmp
+*.bak
+*.swp
