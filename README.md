@@ -24,7 +24,7 @@ Built with **Python**, **Streamlit**, and **Machine Learning**, with optional AI
 - scikit-learn
 - pandas, numpy
 - joblib
-- google-generativeai (optional, for AI explanations)
+- google-generativeai (for AI explanations)
 - TF-IDF vectorizer for feature extraction
 
 ---
